@@ -1,9 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\lapis\\Desktop\\CarRent\\CarRent2\\",
+  "WorkspaceRootPath": "C:\\Users\\lapis\\Desktop\\mappa\\CarRent2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{42D8D1FB-BB06-448C-B6B6-1830B3F64952}|CarRent2.csproj|c:\\users\\lapis\\desktop\\carrent\\carrent2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{42D8D1FB-BB06-448C-B6B6-1830B3F64952}|CarRent2.csproj|c:\\users\\lapis\\desktop\\mappa\\carrent2\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42D8D1FB-BB06-448C-B6B6-1830B3F64952}|CarRent2.csproj|solutionrelative:models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42D8D1FB-BB06-448C-B6B6-1830B3F64952}|CarRent2.csproj|c:\\users\\lapis\\desktop\\mappa\\carrent2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{42D8D1FB-BB06-448C-B6B6-1830B3F64952}|CarRent2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -19,10 +23,23 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\lapis\\Desktop\\mappa\\CarRent2\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\lapis\\Desktop\\mappa\\CarRent2\\Models\\Customer.cs",
+              "RelativeToolTip": "Models\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T07:39:27.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\lapis\\Desktop\\CarRent\\CarRent2\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\lapis\\Desktop\\mappa\\CarRent2\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\lapis\\Desktop\\CarRent\\CarRent2\\Program.cs",
+              "ToolTip": "C:\\Users\\lapis\\Desktop\\mappa\\CarRent2\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
